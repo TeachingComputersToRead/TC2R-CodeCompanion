@@ -2,7 +2,7 @@
 <h2 align="center"><em>The Code Companion</em></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coming%20Fall%202026-orange?style=for-the-badge&logo=readthedocs" />
+  <img src="https://img.shields.io/badge/Status-Coming%20Fall%202025-orange?style=for-the-badge&logo=readthedocs" />
 </p>
 
 <br/>
