@@ -9,5 +9,5 @@
 
 This repository will serve as the official code companion to the upcoming book Teaching Computers to Read: Effective Best Practices in Building Valuable NLP Solutions. 
 
-**Expected Release**: Fall 2026  
+**Expected Release**: Fall 2025  
 **Author**: Dr. Rachel Wagner-Kaiser, with contributions from Tim Cerino
