@@ -19,3 +19,10 @@ This repository will serve as the official code companion to the upcoming book T
 
 **Expected Release**: Fall 2025  
 **Author**: [Dr. Rachel Wagner-Kaiser](https://www.linkedin.com/in/rawagnerkaiser/), with contributions from [Tim Cerino](https://www.linkedin.com/in/timcerino/)
+
+<br/>
+<p align="center">
+    <img src="resources/bookcover.jpg" alt="TC2R-BookCover" width="40%">
+  </p>
+
+<br/>
