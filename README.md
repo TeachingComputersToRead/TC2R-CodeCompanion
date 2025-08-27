@@ -1,5 +1,6 @@
-<h1 align="center">Teaching Computers to Read</h1>
-<h2 align="center"><em>The Code Companion</em></h2>
+<h1 align="center">Teaching Computers to Read:
+
+*The Code Companion*</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coming%20Fall%202025-orange?style=for-the-badge&logo=readthedocs" />
@@ -15,14 +16,9 @@
 
 <br/>
 
-This repository will serve as the official code companion to the upcoming book Teaching Computers to Read: Effective Best Practices in Building Valuable NLP Solutions. 
+This repository will serve as the official code companion to the upcoming book "Teaching Computers to Read: Effective Best Practices in Building Valuable NLP Solutions".
 
-**Expected Release**: Fall 2025  
+**Expected Release**: November 5, 2025  
 **Author**: [Dr. Rachel Wagner-Kaiser](https://www.linkedin.com/in/rawagnerkaiser/), with contributions from [Tim Cerino](https://www.linkedin.com/in/timcerino/)
 
-<br/>
-<p align="center">
-    <img src="resources/bookcover.jpg" alt="TC2R-BookCover" width="40%">
-  </p>
-
-<br/>
+Fill out this [Google form](https://forms.gle/2zpqHBU1M7hkWLrR6) to sign up for the email list.
