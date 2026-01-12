@@ -76,7 +76,12 @@ The code companion has two parts: a set of [Jupyter notebooks](#Notebooks), whic
 ### Notebooks
 
 There are 6 main notebooks, which focus on the following topics:
-1. Data Gathering and Selection2. Data Ingestion3. Pre-processing and Exploratory data analysis4. Data Understanding and Annotation5. Dataset Curation6. Modeling Approaches
+1. Data Gathering and Selection
+2. Data Ingestion
+3. Pre-processing and Exploratory data analysis
+4. Data Understanding and Annotation
+5. Dataset Curation
+6. Modeling Approaches
 
 In each notebook, there are a set of exercises interspersed for the developer, to facilitate and encourage hands-on interaction with the content.
 
@@ -106,7 +111,7 @@ The first step to getting started is to clone this repository. We recommend [thi
 
 Specifically, clone via the below command for this repo:
 ```
-git clone https://github.com/TeachingComputersToRead/TC2R-CC-UseCase1
+git clone https://github.com/TeachingComputersToRead/TC2R-CodeCompanion.git
 ```
 
 <br/>
