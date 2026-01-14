@@ -3,6 +3,7 @@ annoy
 bs4
 dotenv
 ipykernel
+jupyter
 matplotlib
 nltk
 numpy
